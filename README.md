@@ -39,8 +39,7 @@ With **15 years in business analysis (Oil & Gas IT)**, I bridge business needs w
 <img src="https://img.shields.io/badge/-Canva-00C4CC?&style=for-the-badge&logo=Canva&logoColor=white" />
 <img src="https://img.shields.io/badge/-SAP-0FAAFF?&style=for-the-badge&logo=SAP&logoColor=white" />
 <img src="https://img.shields.io/badge/-SharePoint-03787C?&style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white" />
-<img src="https://img.shields.io/badge/-Collaboration-6A5ACD?&style=for-the-badge&logo=Handshake&logoColor=white" />
-<img src="https://img.shields.io/badge/-Requirements%20Analysis-FF8C00?&style=for-the-badge&logo=Notion&logoColor=white" />
+<img src="https://img.shields.io/badge/-HP%20ALM-0096D6?&style=for-the-badge&logo=MicroFocus&logoColor=white" />
 </div>
 
 ---
