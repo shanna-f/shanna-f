@@ -12,6 +12,12 @@ I'm a Senior Business Analyst with experience in **[technologies you're proficie
 - 📫 How to reach me: **[your email address or other contact information]**
 - ⚡ Fun fact: **[a fun fact about yourself]**
 
+## Certifications
+
+<img src="https://img.shields.io/badge/-CCBA-0056A1?&style=for-the-badge&logo=IIBA&logoColor=white" />
+
+
+
 ## 🧠 My Skills 
 
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
