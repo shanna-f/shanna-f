@@ -44,6 +44,13 @@ With **15 years in business analysis (Oil & Gas IT)**, I bridge business needs w
 
 ---
 
+## 📂 Featured Projects  
+- 📑 **Case Study: SmartSave Project** → Business case, process flows, stakeholder register  
+- 📊 **Personal Data Analysis Project** → SQL + Power BI dashboards  
+- 📝 **Portfolio BA Artifacts** → Use cases, RACI, gap analysis
+
+---
+  
 ## 💻 Featured Projects 
 
 ### [Project 1 Title](project_1_link)
