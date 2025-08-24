@@ -1,6 +1,6 @@
 # Hi, I'm Shanna! 👋
+*Business Analyst | Problem Solver | Empowering teams with clear reporting solutions that drive value & eliminate ambiguity*  
 
-![Banner Image](your_banner_image_url_here)
 
 ## 🚀 About Me 
 
