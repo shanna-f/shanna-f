@@ -64,11 +64,8 @@ With **15+ years in business analysis, IT and SAP Reporting (Oil & Gas IT)**, I 
 
 Here are a few of my favorite LinkedIn posts and reflections on my Business Analyst journey:
 
-[![Bridging Business & Tech](https://img.shields.io/badge/-Bridging%20Business%20%26%20Tech-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/your-link)  
-*Insights on turning complex requirements into actionable solutions.*
-
 [![Key 10 Areas of a Functional Spec](https://img.shields.io/badge/-Key%2010%20Areas%20of%20a%20Functional%20Spec-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/shanna-fillmore_functional-specification-key-areas-activity-7308850854072070144-Gl6X?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAKOgYABGN0oO9ECDTrjLJy55qBdoAgvXMY)  
-*How I create functional spec for SAP Web Intelligence Reports.*
+*How I create functional specs for SAP Web Intelligence Reports.*
 
 [![My BA Journey](https://img.shields.io/badge/-My%20BA%20Journey-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/my-journey-business-analyst-shanna-fillmore-1yjfc/)  
 *Reflections on continuous learning and evolving as a Business Analyst.*
