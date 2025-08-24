@@ -68,9 +68,6 @@ With **15 years in business analysis (Oil & Gas IT)**, I bridge business needs w
 ---
 
 ## 🤝 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/shanna-fillmore/)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanna-fillmore/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanna.l.fillmore@gmail.com)  
 
