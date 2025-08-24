@@ -14,6 +14,11 @@ With **15+ years in business analysis, IT and SAP Reporting (Oil & Gas IT)**, I 
 
 ---
 
+## 🧩 Areas of Expertise  
+- Business Analysis / Reports / Collaboration / Problem Solving / Requirments / Functional Specifications / Stakeholder Engagement / Testing / Software Development Life Cycle (SDLC) / Waterfall / Documentation / Status Tracking / Mockups / Diagrams
+
+---
+
 ## ⭐ Recent Wins  
 - **SAP Tax Reporting (6 systems, 20+ stakeholders):** Aligned teams with structured meetings & docs → 100% role clarity.  
 - **Risk Mitigation:** Simulated datasets to anticipate issues → on-time go-live, avoided 3-week delay + penalties.  
