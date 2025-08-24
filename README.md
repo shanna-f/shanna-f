@@ -35,13 +35,9 @@ With **15 years in business analysis (Oil & Gas IT)**, I bridge business needs w
 <img src="https://img.shields.io/badge/-Excel-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/-PowerBI-F2C811?&style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/-Visio-3955A3?&style=for-the-badge&logo=microsoftvisio&logoColor=white" />
+<img src="https://img.shields.io/badge/-draw.io-F08705?&style=for-the-badge&logo=diagrams.net&logoColor=white" />
 <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />
 </div>
----
-
-## 🧠 My Skills 
-
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
