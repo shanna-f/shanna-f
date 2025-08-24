@@ -28,7 +28,16 @@ With **15 years in business analysis (Oil & Gas IT)**, I bridge business needs w
 <img src="https://img.shields.io/badge/-CSPO-FF6F00?&style=for-the-badge&logo=ScrumAlliance&logoColor=white" /> 
 </div>
 
+---
 
+## 🛠️ Tools & Methods I Use  
+<img src="https://img.shields.io/badge/-Excel-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerBI-F2C811?&style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/-Visio-3955A3?&style=for-the-badge&logo=microsoftvisio&logoColor=white" />
+<img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />
+
+---
 
 ## 🧠 My Skills 
 
