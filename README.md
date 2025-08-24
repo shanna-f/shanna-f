@@ -1,6 +1,8 @@
 # Hi, I'm Shanna! 👋
 *Business Analyst | Problem Solver | Empowering teams with clear reporting solutions that drive value & eliminate ambiguity*  
 
+💡 I’m the person who asks *“why,”* digs deeper, and uncovers root causes others miss.  
+With **15 years in business analysis (Oil & Gas IT)**, I bridge business needs with technical solutions—translating requirements and data into reporting solutions that drive informed decisions.  
 
 ## 🚀 About Me 
 
