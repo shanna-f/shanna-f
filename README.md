@@ -46,7 +46,6 @@ With **15 years in business analysis (Oil & Gas IT)**, I bridge business needs w
 
 ## 📂 Featured Projects  
 - 📑 **Case Study: SmartSave Project** → Business case, process flows, stakeholder register  
-- 📊 **Personal Data Analysis Project** → SQL + Power BI dashboards  
 - 📝 **Portfolio BA Artifacts** → Use cases, RACI, gap analysis
 
 ---
@@ -59,11 +58,21 @@ With **15 years in business analysis (Oil & Gas IT)**, I bridge business needs w
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
+---
 
+## 🎯 Currently Exploring  
+- 📈 Data analysis skills (SQL, Power BI, Excel)  
+- 🧩 Case studies that bridge business analysis & BI  
+- 🌱 Applying BA techniques in personal projects
 
-## 📬 Let's Connect
+---
+
+## 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/shanna-fillmore/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanna-fillmore/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanna.l.fillmore@gmail.com)  
 
 
 
