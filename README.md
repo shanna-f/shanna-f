@@ -16,7 +16,7 @@ With **15+ years in business analysis, IT and SAP Reporting (Oil & Gas IT)**, I 
 ---
 
 ## 📌 Areas of Expertise  
-🎯 Business Analysis | 🧩 Requirements Gathering | 🛠️ Functional Specifications | 📊 Data Analysis | 🤝 Stakeholder Collaboration | 📝 Documentation | 🔍 Testing & Validation  
+🎯 Business Analysis | 🧩 Requirements Gathering | 🛠️ Functional Specifications | 📊 SAP Reporting | 🤝 Stakeholder Collaboration | 📝 Documentation | 🔍 Testing & Validation  
 
 ---
 
