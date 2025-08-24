@@ -24,7 +24,7 @@ With **15+ years in business analysis, IT and SAP Reporting (Oil & Gas IT)**, I 
 - **Risk Mitigation:** Simulated datasets to anticipate issues → on-time go-live, avoided 3-week delay + penalties.  
 - **Requirements Analysis:** Delivered 6 reporting specs, defined 20+ categories → zero major UAT defects.
 
----  
+---
 
 ## 🏅 My Certifications
 <div>
