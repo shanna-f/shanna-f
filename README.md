@@ -14,9 +14,9 @@ I'm a Senior Business Analyst with experience in **[technologies you're proficie
 
 ## Certifications
 
-<img src="https://img.shields.io/badge/-CCBA-0056A1?&style=for-the-badge&logo=IIBA&logoColor=white" 
-<img src="https://img.shields.io/badge/-CBDA-0056A1?&style=for-the-badge&logo=IIBA&logoColor=white" 
-<img src="https://img.shields.io/badge/-CSPO-FF6F00?&style=for-the-badge&logo=ScrumAlliance&logoColor=white" 
+<img src="https://img.shields.io/badge/-CCBA-0056A1?&style=for-the-badge&logo=IIBA&logoColor=white">
+<img src="https://img.shields.io/badge/-CBDA-0056A1?&style=for-the-badge&logo=IIBA&logoColor=white">
+<img src="https://img.shields.io/badge/-CSPO-FF6F00?&style=for-the-badge&logo=ScrumAlliance&logoColor=white" /> 
 
 
 
