@@ -1,4 +1,4 @@
-# Hi there, I'm Shanna! 👋
+# Hi, I'm Shanna! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
