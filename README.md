@@ -70,7 +70,7 @@ Here are a few of my favorite LinkedIn posts and reflections on my Business Anal
 [![Leading a High-Risk SAP Project](https://img.shields.io/badge/-High-Risk%20SAP%20Project-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/your-link)  
 *How structured collaboration and risk planning ensure success.*
 
-[![My BA Journey](https://img.shields.io/badge/-My%20BA%20Journey-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/your-link)  
+[![My BA Journey](https://img.shields.io/badge/-My%20BA%20Journey-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/my-journey-business-analyst-shanna-fillmore-1yjfc/)  
 *Reflections on continuous learning and evolving as a Business Analyst.*
 
 ---
