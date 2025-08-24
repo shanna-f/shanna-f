@@ -33,18 +33,15 @@ With **15 years in business analysis (Oil & Gas IT)**, I bridge business needs w
 ## 🛠️ Tools & Methods I Use  
 <div>
 <img src="https://img.shields.io/badge/-Excel-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/-PowerBI-F2C811?&style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/-draw.io-F08705?&style=for-the-badge&logo=diagrams.net&logoColor=white" />
 <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/-Canva-00C4CC?&style=for-the-badge&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/-SAP-0FAAFF?&style=for-the-badge&logo=SAP&logoColor=white" />
+<img src="https://img.shields.io/badge/-SharePoint-03787C?&style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white" />
 </div>
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![MICROSOFT SHAREPOINT](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+---
 
 ## 💻 Featured Projects 
 
