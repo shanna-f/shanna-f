@@ -2,7 +2,7 @@
 
 ![Banner Image](your_banner_image_url_here)
 
-## About Me 🚀
+## 🚀 About Me 
 
 I'm a Senior Business Analyst with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
@@ -12,7 +12,7 @@ I'm a Senior Business Analyst with experience in **[technologies you're proficie
 - 📫 How to reach me: **[your email address or other contact information]**
 - ⚡ Fun fact: **[a fun fact about yourself]**
 
-## My Skills 🧠
+## 🧠 My Skills 
 
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
@@ -22,7 +22,7 @@ I'm a Senior Business Analyst with experience in **[technologies you're proficie
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-## Featured Projects 💻
+## 💻 Featured Projects 
 
 ### [Project 1 Title](project_1_link)
 
@@ -32,7 +32,7 @@ I'm a Senior Business Analyst with experience in **[technologies you're proficie
 
 
 
-## Get in Touch 📬
+## 📬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/shanna-fillmore/)
 
