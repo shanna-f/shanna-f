@@ -4,17 +4,24 @@
 💡 I’m the person who asks *“why,”* digs deeper, and uncovers root causes others miss.  
 With **15 years in business analysis (Oil & Gas IT)**, I bridge business needs with technical solutions, translating requirements and data into reporting solutions that drive informed decisions.  
 
-## 🚀 About Me 
+---
 
-I'm a Senior Business Analyst with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+## 🚀 My Superpowers  
+- 🤝 Facilitating collaboration between business & tech  
+- 📊 Leading detailed reporting requirements elicitation  
+- 🔎 Analyzing complex datasets to uncover root causes  
+- 📝 Crafting precise functional specifications  
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+---
 
-## Certifications
+## ⭐ Recent Wins  
+- **SAP Tax Reporting (6 systems, 20+ stakeholders):** Aligned teams with structured meetings & docs → 100% role clarity.  
+- **Risk Mitigation:** Simulated datasets to anticipate issues → on-time go-live, avoided 3-week delay + penalties.  
+- **Requirements Analysis:** Delivered 6 reporting specs, defined 20+ categories → zero major UAT defects.
+
+---  
+
+## My Certifications
 <div>
 <img src="https://img.shields.io/badge/-CCBA-0056A1?&style=for-the-badge&logo=IIBA&logoColor=white">
 <img src="https://img.shields.io/badge/-CBDA-0056A1?&style=for-the-badge&logo=IIBA&logoColor=white">
