@@ -21,7 +21,7 @@ With **15+ years in business analysis, IT and SAP Reporting (Oil & Gas IT)**, I 
 
 ---  
 
-## My Certifications
+## 🏅 My Certifications
 <div>
 <img src="https://img.shields.io/badge/-CCBA-0056A1?&style=for-the-badge&logo=IIBA&logoColor=white">
 <img src="https://img.shields.io/badge/-CBDA-0056A1?&style=for-the-badge&logo=IIBA&logoColor=white">
