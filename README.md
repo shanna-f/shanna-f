@@ -40,7 +40,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**(https://www.linkedin.com/in/shanna-fillmore/)
-- [LinkedIn](project_2_repository_link](https://www.linkedin.com/in/shanna-fillmore/).
+- [LinkedIn](https://www.linkedin.com/in/shanna-fillmore/).
 - **[Twitter]**(your_twitter_profile_link)
 
 
