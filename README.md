@@ -60,6 +60,21 @@ With **15+ years in business analysis, IT and SAP Reporting (Oil & Gas IT)**, I 
 
 ---
 
+## 📝 Featured Articles & Posts
+
+Here are a few of my favorite LinkedIn posts and reflections on my Business Analyst journey:
+
+[![Bridging Business & Tech](https://img.shields.io/badge/-Bridging%20Business%20%26%20Tech-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/your-link)  
+*Insights on turning complex requirements into actionable solutions.*
+
+[![Leading a High-Risk SAP Project](https://img.shields.io/badge/-High-Risk%20SAP%20Project-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/your-link)  
+*How structured collaboration and risk planning ensure success.*
+
+[![My BA Journey](https://img.shields.io/badge/-My%20BA%20Journey-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/your-link)  
+*Reflections on continuous learning and evolving as a Business Analyst.*
+
+---
+
 ## 🎯 Currently Exploring  
 - 📈 Data analysis skills (SQL, Power BI, Excel)  
 - 🧩 Case studies that bridge business analysis & BI  
