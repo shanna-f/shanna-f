@@ -50,16 +50,6 @@ With **15+ years in business analysis, IT and SAP Reporting (Oil & Gas IT)**, I 
 
 ---
   
-## 💻 Featured Projects 
-
-### [Project 1 Title](project_1_link)
-
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
----
-
 ## 📝 Featured Articles & Posts
 
 Here are a few of my favorite LinkedIn posts and reflections on my Business Analyst journey:
