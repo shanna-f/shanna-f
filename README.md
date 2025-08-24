@@ -15,7 +15,7 @@ With **15+ years in business analysis, IT and SAP Reporting (Oil & Gas IT)**, I 
 ---
 
 ## 🧩 Areas of Expertise  
-- Business Analysis / Reports / Collaboration / Problem Solving / Requirments / Functional Specifications / Stakeholder Engagement / Testing / Software Development Life Cycle (SDLC) / Waterfall / Documentation / Status Tracking / Mockups / Diagrams
+- Business Analysis | Reports | Collaboration | Problem Solving | Requirments | Functional Specifications | Stakeholder Engagement | Testing | Software Development Life Cycle (SDLC) | Waterfall | Documentation | Status Tracking | Mockups | Diagrams | Defect Management
 
 ---
 
