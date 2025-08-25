@@ -31,6 +31,7 @@ Business Analysis, Requirements, Functional Specifications, Report Specification
 <img src="https://img.shields.io/badge/-SAP-0FAAFF?&style=for-the-badge&logo=SAP&logoColor=white" />
 <img src="https://img.shields.io/badge/-SharePoint-03787C?&style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white" />
 <img src="https://img.shields.io/badge/-HP%20ALM-0096D6?&style=for-the-badge&logo=MicroFocus&logoColor=white" />
+<img src="https://img.shields.io/badge/-MS%20Teams-6264A7?&style=for-the-badge&logo=microsoftteams&logoColor=white" />
 </div>
 
 ---
