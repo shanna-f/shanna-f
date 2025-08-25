@@ -50,8 +50,8 @@ With **15+ years in business analysis, IT and SAP Reporting**, I bridge business
 ---
 
 ## 📂 Featured Projects  
-- 📑 **Case Study: SmartSave Project** → Business case, process flows, stakeholder register  
-- 📝 **Portfolio BA Artifacts** → Use cases, RACI, gap analysis
+- 📑 **Team Case Study: SmartSave Project** → Business case, process flows, BRD and more  
+- 📝 **Case Study: ETRM** → Business Case, RACI, stakeholder register, process flows and more
 
 ---
   
