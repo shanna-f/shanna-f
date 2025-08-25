@@ -25,7 +25,7 @@ With **15+ years in business analysis, IT and SAP Reporting**, I bridge business
 
 ---
 
-## 🛠️ Tools & Methods I Use  
+## 🛠️ Tools I Use  
 <div>
 <img src="https://img.shields.io/badge/-Excel-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
