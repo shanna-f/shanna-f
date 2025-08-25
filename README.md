@@ -16,7 +16,7 @@ With **15+ years in business analysis, IT and SAP Reporting**, I bridge business
 
 ---
 
-## 📌 Areas of Expertise  
+## 🌟 Areas of Expertise  
 - 🧩 Business Analysis, Requirements, Problem-Solving, Elicitation
 - ⚙️ Functional Specifications, Report Specifications, Report Mockups
 - 📝 Documentation, Status Tracking
