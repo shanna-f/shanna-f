@@ -21,7 +21,7 @@ With **15+ years in business analysis, IT and SAP Reporting**, I bridge business
 - ⚙️ Functional Specifications, Report Specifications, Report Mockups
 - 📝 Documentation, Status Tracking
 - 🤝 Cross-Functional Collaboration, Stakeholder Engagement, Facilitation
-- 🔄 Testing, Defect Management, SDLC, Waterfall
+- 🔄 Testing, Defect Management, SDLC, Waterfall, Scrum
 
 ---
 
