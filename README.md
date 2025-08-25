@@ -42,7 +42,7 @@ With **15+ years in business analysis, IT and SAP Reporting**, I bridge business
 
 ---
 
-## ⭐ Recent Wins  
+## 🚀 Recent Wins  
 - **SAP Tax Reporting (6 systems, 20+ stakeholders):** Aligned teams with structured meetings & docs → 100% role clarity.  
 - **Risk Mitigation:** Simulated datasets to anticipate issues → on-time go-live, avoided 3-week delay + penalties.  
 - **Requirements Analysis:** Delivered 6 reporting specs, defined 20+ categories → zero major UAT defects.
@@ -69,8 +69,7 @@ Here are a few of my favorite LinkedIn posts and reflections on my Business Anal
 
 ## 🎯 Currently Exploring  
 - 📈 Data analysis skills (SQL, Power BI, Excel)  
-- 🧩 Case studies that bridge business analysis & BI  
-- 🌱 Applying BA techniques in personal projects
+- 🧩 Applying BA techniques in personal projects
 
 ---
 
