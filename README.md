@@ -3,7 +3,7 @@
 
 I’m the person who asks *“why,”* digs deeper, and uncovers root causes others miss.  
 
-With **15+ years in business analysis, IT and SAP Reporting (Oil & Gas IT)**, I bridge business needs with technical solutions, translating requirements and data into reporting solutions that drive informed decisions.  
+With **15+ years in business analysis, IT and SAP Reporting**, I bridge business needs with technical solutions, translating requirements and data into reporting solutions that drive informed decisions.  
 
 ---
 
