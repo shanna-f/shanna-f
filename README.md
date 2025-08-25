@@ -33,9 +33,12 @@ With **15+ years in business analysis, IT and SAP Reporting**, I bridge business
 <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/-Canva-00C4CC?&style=for-the-badge&logo=Canva&logoColor=white" />
 <img src="https://img.shields.io/badge/-SAP-0FAAFF?&style=for-the-badge&logo=SAP&logoColor=white" />
+<img src="https://img.shields.io/badge/-SAP%20BusinessObjects-0FAAFF?&style=for-the-badge&logo=sap&logoColor=white" />
 <img src="https://img.shields.io/badge/-SharePoint-03787C?&style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white" />
 <img src="https://img.shields.io/badge/-HP%20ALM-0096D6?&style=for-the-badge&logo=MicroFocus&logoColor=white" />
 <img src="https://img.shields.io/badge/-MS%20Teams-6264A7?&style=for-the-badge&logo=microsoftteams&logoColor=white" />
+<img src="https://img.shields.io/badge/-ServiceNow-1BB12F?&style=for-the-badge&logo=servicenow&logoColor=white" />
+
 </div>
 
 ---
