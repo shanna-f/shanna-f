@@ -17,7 +17,11 @@ With **15+ years in business analysis, IT and SAP Reporting**, I bridge business
 ---
 
 ## 📌 Areas of Expertise  
-Business Analysis, Requirements, Functional Specifications, Report Specifications, Documentation, Report Mockups, Cross-Functional Collaboration, Stakeholder Engagement, Problem-Solving, Testing, Defect Management, SDLC, Waterfall, Status Tracking
+🧩 Business Analysis, Requirements, Problem-Solving,
+⚙️ Functional Specifications, Report Specifications, 
+📝 Documentation, Report Mockups, Status Tracking,
+🤝 Cross-Functional Collaboration, Stakeholder Engagement, 
+🔄 Testing, Defect Management, SDLC, Waterfall
 
 ---
 
