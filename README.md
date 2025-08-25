@@ -1,4 +1,4 @@
-# Hi, I'm Shanna! 🧩🤝🌱
+# Hi, I'm Shanna! 🧩🤝
 *Business Analyst | Reporting Specialist | Empowering teams with clear reporting solutions that drive value & eliminate ambiguity* 
 
 I’m the person who asks *“why,”* digs deeper, and uncovers root causes others miss.  
