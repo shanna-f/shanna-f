@@ -7,32 +7,17 @@ With **15+ years in business analysis, IT and SAP Reporting (Oil & Gas IT)**, I 
 
 ---
 
-## 🚀 My Superpowers  
-- 🤝 Facilitating collaboration between business & tech  
-- 📊 Leading detailed reporting requirements elicitation  
-- 🔎 Analyzing complex datasets to uncover root causes  
-- 📝 Crafting precise functional specifications  
-
----
-
-## 📌 Areas of Expertise  
-🎯 Business Analysis | 🧩 Requirements Gathering | 🛠️ Functional Specifications | 📊 SAP Reporting | 🤝 Stakeholder Collaboration | 📝 Documentation | 🔍 Testing & Validation  
-
----
-
-## ⭐ Recent Wins  
-- **SAP Tax Reporting (6 systems, 20+ stakeholders):** Aligned teams with structured meetings & docs → 100% role clarity.  
-- **Risk Mitigation:** Simulated datasets to anticipate issues → on-time go-live, avoided 3-week delay + penalties.  
-- **Requirements Analysis:** Delivered 6 reporting specs, defined 20+ categories → zero major UAT defects.
-
----
-
 ## 🏅 My Certifications
 <div>
 <img src="https://img.shields.io/badge/-CCBA-0056A1?&style=for-the-badge&logo=IIBA&logoColor=white">
 <img src="https://img.shields.io/badge/-CBDA-0056A1?&style=for-the-badge&logo=IIBA&logoColor=white">
 <img src="https://img.shields.io/badge/-CSPO-FF6F00?&style=for-the-badge&logo=ScrumAlliance&logoColor=white" /> 
 </div>
+
+---
+
+## 📌 Areas of Expertise  
+Business Analysis, Requirements, Functional Specifications, Report Specifications, Documentation, Report Mockups, SAP Reporting, Cross-Functional Collaboration, Stakeholder Engagement, Problem-Solving, Testing, Defect Management, SDLC, Waterfall, Status Tracking   
 
 ---
 
@@ -47,6 +32,13 @@ With **15+ years in business analysis, IT and SAP Reporting (Oil & Gas IT)**, I 
 <img src="https://img.shields.io/badge/-SharePoint-03787C?&style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white" />
 <img src="https://img.shields.io/badge/-HP%20ALM-0096D6?&style=for-the-badge&logo=MicroFocus&logoColor=white" />
 </div>
+
+---
+
+## ⭐ Recent Wins  
+- **SAP Tax Reporting (6 systems, 20+ stakeholders):** Aligned teams with structured meetings & docs → 100% role clarity.  
+- **Risk Mitigation:** Simulated datasets to anticipate issues → on-time go-live, avoided 3-week delay + penalties.  
+- **Requirements Analysis:** Delivered 6 reporting specs, defined 20+ categories → zero major UAT defects.
 
 ---
 
