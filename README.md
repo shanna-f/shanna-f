@@ -46,7 +46,7 @@ With **15+ years in business analysis, IT and SAP Reporting**, I bridge business
 
 📝 **Tax Reporting ETRM Case Study**
 
-A fictional case study project (for portfolio purposes) where I worked on improving indirect tax reporting in an Energy Trading and Risk Management (ETRM) system for a large oil & gas trading company.
+This fictional case study project focused on improving indirect tax reporting within an Energy Trading and Risk Management (ETRM) system for a large oil & gas trading company. The current manual, spreadsheet-driven process is error-prone, inefficient, and difficult to scale, creating compliance and operational risks. By integrating a low-code tax rules engine with the ETRM platform, the solution enables real-time validation, 90% automation, fewer errors, full traceability, and projected net savings of $1.5M–$1.9M over 3 years.
 
 [View Project](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study)
 
