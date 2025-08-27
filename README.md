@@ -48,13 +48,14 @@ With **15+ years in business analysis, IT and SAP Reporting**, I bridge business
 
 This fictional case study project focused on improving indirect tax reporting within an Energy Trading and Risk Management (ETRM) system for a large oil & gas trading company. The current manual, spreadsheet-driven process is error-prone, inefficient, and difficult to scale, creating compliance and operational risks. By integrating a low-code tax rules engine with the ETRM platform, the solution enables real-time validation, 90% automation, fewer errors, full traceability, and projected net savings of $1.5M–$1.9M over 3 years.
 
-[View Project](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study)
+- [View Project](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study)
 
 📑 **SmartSave Team Case Study** 
 
 This 6-week global team project, hosted by The Business Analysis Circle, brought together 7 business analysts across multiple countries. Our goal was to design the business and functional requirements for SmartSave, a mobile/web app that helps young professionals manage spending, set budgets, and save automatically with AI-driven insights. The app addresses common financial challenges like inconsistent saving, overspending, and lack of accessible tools by offering a secure, user-friendly solution.
 
-[View Project](https://github.com/shanna-f/SmartSave-Team-Case-Study)
+- [View Project](https://github.com/shanna-f/SmartSave-Team-Case-Study)
+
 ---
   
 ## 📝 Featured Articles & Posts
