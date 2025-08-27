@@ -45,11 +45,13 @@ With **15+ years in business analysis, IT and SAP Reporting**, I bridge business
 ## 📂 Featured Projects  
 
 📝 **Tax Reporting ETRM Case Study**
+
 A fictional case study project (for portfolio purposes) where I worked on improving indirect tax reporting in an Energy Trading and Risk Management (ETRM) system for a large oil & gas trading company.
 
 [View Project](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study)
 
 📑 **SmartSave Team Case Study** 
+
 This 6-week global team project, hosted by The Business Analysis Circle, brought together 7 business analysts across multiple countries. Our goal was to design the business and functional requirements for SmartSave, a mobile/web app that helps young professionals manage spending, set budgets, and save automatically with AI-driven insights. The app addresses common financial challenges like inconsistent saving, overspending, and lack of accessible tools by offering a secure, user-friendly solution.
 
 [View Project](https://github.com/shanna-f/SmartSave-Team-Case-Study)
