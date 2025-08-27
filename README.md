@@ -51,7 +51,7 @@ With **15+ years in business analysis, IT and SAP Reporting**, I bridge business
 
 ## 📂 Featured Projects  
 - 📑 **Team Case Study: SmartSave Project** → Business case, process flows, BRD and more  
-- 📝 **Case Study: ETRM** → Business Case, RACI, stakeholder register, process flows and more
+- 📝 [Tax Reporting ETRM Case Study](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study)
 
 ---
   
