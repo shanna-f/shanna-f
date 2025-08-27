@@ -42,21 +42,17 @@ With **15+ years in business analysis, IT and SAP Reporting**, I bridge business
 
 ---
 
-## 🚀 Recent Wins  
-- **SAP Tax Reporting (6 systems, 20+ stakeholders):** Aligned teams with structured meetings & docs → 100% role clarity.  
-- **Risk Mitigation:** Simulated datasets to anticipate issues → on-time go-live, avoided 3-week delay + penalties.  
-- **Requirements Analysis:** Delivered 6 reporting specs, defined 20+ categories → zero major UAT defects.
-
----
-
 ## 📂 Featured Projects  
 
-- 📝 **Tax Reporting ETRM Case Study**
-- A fictional case study project (for portfolio purposes) where I worked on improving indirect tax reporting in an Energy Trading and Risk Management (ETRM) system for a large oil & gas trading company.
-- [View Project](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study)
+📝 **Tax Reporting ETRM Case Study**
+A fictional case study project (for portfolio purposes) where I worked on improving indirect tax reporting in an Energy Trading and Risk Management (ETRM) system for a large oil & gas trading company.
 
-- 📑 **Team Case Study: SmartSave Project** 
+[View Project](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study)
 
+📑 **SmartSave Team Case Study** 
+This 6-week global team project, hosted by The Business Analysis Circle, brought together 7 business analysts across multiple countries. Our goal was to design the business and functional requirements for SmartSave, a mobile/web app that helps young professionals manage spending, set budgets, and save automatically with AI-driven insights. The app addresses common financial challenges like inconsistent saving, overspending, and lack of accessible tools by offering a secure, user-friendly solution.
+
+[View Project](https://github.com/shanna-f/SmartSave-Team-Case-Study)
 ---
   
 ## 📝 Featured Articles & Posts
