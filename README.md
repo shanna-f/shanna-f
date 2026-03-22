@@ -44,6 +44,12 @@ With **15 years in business analysis, IT and SAP Reporting**, I bridge business 
 
 ## 📂 Featured Projects  
 
+📝 **Policy Endorsement Intake Optimization**
+
+This fictional case study project focused on improving policy endorsement intake and processing for a property & casualty insurance organization by introducing complexity-based triage and differentiated workflows.
+
+- [View Project](https://github.com/shanna-f/Policy-Endorsement-Intake-Optimization)
+- 
 📝 **Tax Reporting ETRM Case Study**
 
 This fictional case study project focused on improving indirect tax reporting within an Energy Trading and Risk Management (ETRM) system for a large oil & gas trading company. The current manual, spreadsheet-driven process is error-prone, inefficient, and difficult to scale, creating compliance and operational risks. By integrating a low-code tax rules engine with the ETRM platform, the solution enables real-time validation, 90% automation, fewer errors, full traceability, and projected net savings of $1.5M–$1.9M over 3 years.
